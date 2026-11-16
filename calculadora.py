@@ -117,7 +117,7 @@ def mostrar_historico():
 
 
 janela = tk.Tk()
-janela.title("Calculadora DS")
+janela.title("Calculadora")
 janela.geometry("350x550")
 janela.resizable(False, False)
 janela.configure(bg="#1e1e1e")
